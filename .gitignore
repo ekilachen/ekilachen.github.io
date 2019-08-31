@@ -1,1 +1,3 @@
 dummy-bundle.js
+*.js.map
+*.css.map
